@@ -44,9 +44,25 @@ I am a Server Engineer at iZoe Solutions with a unique background that bridges t
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C0d3-R3d&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://github.com/C0d3-R3d">
+    <img src="https://github-readme-stats.vercel.app/api?username=C0d3-R3d&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-R3d&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0d3-R3d&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-R3d&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+> Note: GitHub streak and language stats are based on public contributions and repository activity. Python will appear once your Python code is being pushed to public repos and counted by GitHub.
 
 ---
 
