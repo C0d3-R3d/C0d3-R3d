@@ -44,9 +44,9 @@ I am a Server Engineer at iZoe Solutions with a unique background that bridges t
 
 ### 🔥 My Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C0d3-R3d&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C0d3-R3d&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-R3d&layout=donut-vertical&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0d3-R3d&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
