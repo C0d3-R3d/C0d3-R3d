@@ -62,8 +62,6 @@ I am a Server Engineer at iZoe Solutions with a unique background that bridges t
   </a>
 </p>
 
-> Note: GitHub streak and language stats are based on public contributions and repository activity. Python will appear once your Python code is being pushed to public repos and counted by GitHub.
-
 ---
 
 <p align="center">
